@@ -15,7 +15,7 @@ end
 end
 
 def fizzbuzz(int)
-  if int (% 3 == 0) && (% 5 == 0) 
+  if int  
     "FizzBuzz"
   end
 end
